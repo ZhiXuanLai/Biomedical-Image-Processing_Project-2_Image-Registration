@@ -1,4 +1,4 @@
-%Q1 correlation
+%Calculate the correlation
 clear; clf; clc;
 ipfp = fopen( 'mri-a.256', 'r');
 ipimg = fread(ipfp, [256,256], 'uchar');
