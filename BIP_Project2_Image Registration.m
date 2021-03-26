@@ -1,4 +1,4 @@
-%Q2 correlation
+%Q2 Image Registration and Correlation Calculation
 figure(1);
 translate= imtranslate(mri_a, [-45,-45]);
 % translate image by left=45, up=45
